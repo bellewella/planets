@@ -1,0 +1,9 @@
+
+*.dat
+results/ 
+
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+graphs/
